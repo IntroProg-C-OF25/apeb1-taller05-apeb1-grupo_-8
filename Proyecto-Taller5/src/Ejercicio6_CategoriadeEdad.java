@@ -27,3 +27,10 @@ public class Ejercicio6_CategoriadeEdad {
 
     }
 }
+
+/*
+*run-single:
+*Escribir su edad: 18
+*usted es adulto
+*BUILD SUCCESSFUL (total time: 3 seconds)
+*/
