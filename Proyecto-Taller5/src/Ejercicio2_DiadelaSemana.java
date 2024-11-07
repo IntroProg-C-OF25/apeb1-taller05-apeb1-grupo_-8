@@ -43,6 +43,9 @@ public class Ejercicio2_DiadelaSemana {
     }
 }
 
-/*
-
+/*compile-single:
+*run-single:
+*escribir el numero de dia: 4
+*Jueves
+*BUILD SUCCESSFUL (total time: 9 seconds)
 */
