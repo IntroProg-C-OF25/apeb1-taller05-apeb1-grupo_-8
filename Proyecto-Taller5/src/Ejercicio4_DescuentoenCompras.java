@@ -26,4 +26,8 @@ public class Ejercicio4_DescuentoenCompras {
     }
 }
 
-
+/*run-single:
+*Ingresar el precio de su producto: 101
+*Su producto tiene un descuento del 10% asi que su total es: 90.9
+*BUILD SUCCESSFUL (total time: 23 seconds)
+*/
