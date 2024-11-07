@@ -21,3 +21,7 @@ public class Ejercicio1_EdadVotar {
     }
 
 }
+
+/*DAME EDAD: 43
+ *SI PUEDE VOTAR
+ */
