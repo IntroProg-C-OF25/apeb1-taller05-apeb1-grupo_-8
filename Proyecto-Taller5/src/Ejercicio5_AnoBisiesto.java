@@ -14,7 +14,7 @@ public class Ejercicio5_AnoBisiesto {
         ano = tcl.nextInt();
 
         if (ano % 4 == 0) {
-            System.out.println("El ano el bisiesto");
+            System.out.println("El ano es bisiesto");
         } else {
             System.out.println("El ano no es bisiesto");
         }

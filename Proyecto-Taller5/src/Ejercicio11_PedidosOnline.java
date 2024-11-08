@@ -11,16 +11,17 @@ public class Ejercicio11_PedidosOnline {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
 
-        double producto, cantidadProd, costo_d, descuento;
+        double producto, costo_d, descuento;
+        int cantidadProd;
         System.out.print("Ingrese el precio del producto: ");
         producto = tcl.nextDouble();
 
         System.out.print("Ingrese la cantidad de productos: ");
-        cantidadProd = tcl.nextDouble();
+        cantidadProd = tcl.nextInt();
 
         double costo_T = producto * cantidadProd;
 
-        if (cantidadProd > 50.0) {
+        if (cantidadProd > 50) {
             descuento = producto * 0.15;
             costo_d = costo_T - descuento;
             System.out.println("Costo total = " + costo_d);
